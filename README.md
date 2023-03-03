@@ -10,11 +10,14 @@ I work in the industry for more than 10 years already, Im an Senior Integration 
 
 ### About Me
 
-- :computer: Favorite language: Java and Python (shhhh~)
+- :computer: Favorite language: Java and Python (shhhh~), Im also starting out with kotlin for full stack development
 - :apple: I also have MacBook for my work.
 - ⌨️ Keyboard: Standard US Keyboard
 - :penguin: Current Linux Distro: Ubuntu
+- Love doing experiments with docker 
 - :tv: I love netflix! 
+- :tv: I love HBO! and Disney!
+- :tv: Marvel Fan! 
 
 
 <img src="https://komarev.com/ghpvc/?username=mortiz905&color=45707a&style=flat-square" alt="GitHub page views">
