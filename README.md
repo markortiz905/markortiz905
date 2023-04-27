@@ -1,7 +1,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=markortiz905&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Mark Ortiz Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=450px align=right>
 
-## 🍀 Hey there!
+## 🍀 Hey there!!
 
 I work in the industry for more than 10 years already, Im an Senior Integration Engineer and Linux Consumer from the Philippines.
 * Most of my work is corporate.
